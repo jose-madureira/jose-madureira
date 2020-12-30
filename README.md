@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm José Roberto Madureira, and I'm a Professor Centro Paula Souza.
+Eu sou José Roberto Madureira, trabalho como Professor Centro Paula Souza.
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
+[![Linkedin: jose-madureira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-madureira/)](https://www.linkedin.com/in/jose-madureira/)
 
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+Estas são algumas das tecnologias e ferramentas com as quais trabalho::
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
