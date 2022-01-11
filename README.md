@@ -4,7 +4,7 @@ Eu sou José Roberto Madureira, trabalho como Professor Centro Paula Souza.
 
 <div align="center">
   <a href="https://github.com/jose-madureira">
-  <img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api?username=jose-madureira&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api?username=jose-madureira&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-madureira&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 <div style="display: inline_block"><br>
