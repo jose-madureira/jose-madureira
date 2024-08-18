@@ -1,7 +1,4 @@
-### Hi there 👋
-
-Eu sou José Roberto Madureira, trabalho como Professor Centro Paula Souza.
-
+### Eu sou José Roberto Madureira Junior, trabalho como Professor Centro Paula Souza.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Madu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
