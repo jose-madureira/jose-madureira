@@ -8,17 +8,17 @@ I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologie
 
 ### My Skills
 
-## Programming languages
+# Programming languages
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cs,php,js,java)](https://skillicons.dev)
 
-## Framework and Library
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,flask,fastapi,net)](https://skillicons.dev)
+# Framework and Library
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,fastapi,net)](https://skillicons.dev)
 
-## Database Technologies
+# Database Technologies
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
 
-## Cloud Computing Technologies
+# Cloud Technologies
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 
