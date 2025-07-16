@@ -16,7 +16,7 @@ I'm a a professor at Centro Paula Souza and developer in Python, C#, PHP & JS, a
  <br />
   <b>🏆 Github Achievements</b>
  <br />   
-<p align="center"> <a href="https://github.com/jose-madureira"><img src="https://github-profile-trophy.vercel.app/?username=jose-madureira&margin-w=5&theme=dark" alt="jose-madureira" /></a>
+<p align="center"> <a href="https://github.com/jose-madureira"><img src="https://github-profile-trophy.vercel.app/?username=jose-madureira&margin-w=5&theme=radical" alt="jose-madureira" /></a>
 </div>
 
  
