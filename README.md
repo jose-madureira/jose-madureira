@@ -1,5 +1,5 @@
 ### About me
-I'm a a professor at Centro Paula Souza, and Ph.D. in Technologies of Intelligence and Digital Design at PUCSP university, with knowledge in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Large Language Models (LLM), Cloud Computing and Software Engineering.
+I'm a a professor at Centro Paula Souza, and Ph.D. in Technologies of Intelligence and Digital Design at the prestigious [PUC-SP](https://www.pucsp.br/) university, with knowledge in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Large Language Models (LLM), Cloud Computing and Software Engineering.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jose-madureira)](https://github.com/jose-madureira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-madureira/)](https://www.linkedin.com/in/jose-madureira/)
