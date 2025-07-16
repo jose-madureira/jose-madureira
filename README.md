@@ -5,49 +5,23 @@ I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologie
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-madureira/)](https://www.linkedin.com/in/jose-madureira/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/josemadureira_/)](https://instagram.com/josemadureira_)
 
-##
-
-#### Programming languages
-[![My Skills](https://skillicons.dev/icons?i=py,c,cs,php,js,java)](https://skillicons.dev)
-
-#### Framework and Library
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,fastapi,net)](https://skillicons.dev)
-
-#### Database Technologies
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
-
-#### Cloud Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
-
-####  Development Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,php,js,java,tensorflow,pytorch,sklearn,flask,fastapi,net)](https://skillicons.dev)
 
   ##
 
+#### My Stats
 
-<div>
-  <a href="https://github.com/jose-madureira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-madureira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-madureira&layout=compact&langs_count=6&theme=dark"/>
- <br />
-
-  <img src="https://github-profile-trophy.vercel.app?username=jose-madureira&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jose-madureira&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jose-madureira&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=jose-madureiraza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jose-madureira&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
- <h3 align="left"> My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+  ###
 
 
 
