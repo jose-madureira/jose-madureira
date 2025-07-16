@@ -1,4 +1,4 @@
-### About me
+#### About me
 I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologies of Intelligence and Digital Design at [PUC-SP](https://www.pucsp.br/) university, with knowledge in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Large Language Models (LLM), Cloud Computing and Software Engineering.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jose-madureira)](https://github.com/jose-madureira)
@@ -13,13 +13,13 @@ I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologie
 #### Framework and Library
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,fastapi,net)](https://skillicons.dev)
 
-### Database Technologies
+#### Database Technologies
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
 
-### Cloud Technologies
+#### Cloud Technologies
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
-###  Development Tools
+####  Development Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman,selenium)](https://skillicons.dev)
 
   ##
