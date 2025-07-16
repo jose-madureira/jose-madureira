@@ -14,6 +14,7 @@ I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologie
 <div>
   <a href="https://github.com/jose-madureira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-madureira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-madureira&layout=compact&langs_count=6&theme=radical"/>
  <br />
 
   <img src="https://github-profile-trophy.vercel.app?username=jose-madureira&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
