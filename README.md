@@ -11,7 +11,7 @@ I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologie
 
   ##
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=jose-madureira&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
