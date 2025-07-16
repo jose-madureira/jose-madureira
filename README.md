@@ -1,6 +1,10 @@
 ### I am José Roberto Madureira Junior and work as a professor at Centro Paula Souza.
 
+```md
 [![My Skills](https://skillicons.dev/icons?i=py, tensorflow, mongodb, aws, azure, gcp, git, GitHub, cs, php, js,html,css,)](https://skillicons.dev)
+```
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
