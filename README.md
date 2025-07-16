@@ -6,7 +6,21 @@ I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologie
 
   ##
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,php,js,tensorflow,pytorch,sklearn,flask,mongodb,vscode,git,docker,aws,azure,gcp)](https://skillicons.dev)
+### My Skills
+
+## Programming languages
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,php,js,java)](https://skillicons.dev)
+
+## Framework and Library
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,flask,fastapi,net)](https://skillicons.dev)
+
+## Database Technologies
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
+
+## Cloud Computing Technologies
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+
 
   ##
 
