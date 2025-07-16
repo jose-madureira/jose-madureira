@@ -3,6 +3,7 @@ I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologie
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jose-madureira)](https://github.com/jose-madureira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-madureira/)](https://www.linkedin.com/in/jose-madureira/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/josemadureira_/)](https://instagram.com/josemadureira_)
 
 ##
 
