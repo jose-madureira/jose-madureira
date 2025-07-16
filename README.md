@@ -6,7 +6,7 @@ I'm a a professor at Centro Paula Souza, and Ph.D. in Technologies of Intelligen
 
   ##
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cs,php,java,js,tensorflow,pytorch,sklearn,flask,mongodb,vscode,git,docker,aws,azure,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,php,js,tensorflow,pytorch,sklearn,flask,mongodb,vscode,git,docker,aws,azure,gcp)](https://skillicons.dev)
 
   ##
 
