@@ -5,9 +5,6 @@
   
   ##
 
-  
-https://github.com/lisaterumi/lisaterumi
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jose-madureira)](https://github.com/jose-madureira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-madureira/)](https://www.linkedin.com/in/jose-madureira/)
 
@@ -21,7 +18,7 @@ I'm a backend and frontend developer in Python, C#, PHP & JS, and Ph.D. in Techn
  <br />
   <b>🏆 Github Achievements</b>
  <br />   
-<p align="center"> <a href="https://github.com/lisaterumi"><img src="https://github-profile-trophy.vercel.app/?username=lisaterumi&margin-w=5&theme=radical" alt="lisaterumi" /></a>
+<p align="center"> <a href="https://github.com/jose-madureira"><img src="https://github-profile-trophy.vercel.app/?username=lisaterumi&margin-w=5&theme=radical" alt="lisaterumi" /></a>
 </div>
 
  
