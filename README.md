@@ -7,10 +7,10 @@ I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologie
 
 ##
 
-### Programming languages
+#### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=py,c,cs,php,js,java)](https://skillicons.dev)
 
-### Framework and Library
+#### Framework and Library
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,fastapi,net)](https://skillicons.dev)
 
 ### Database Technologies
