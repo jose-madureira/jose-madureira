@@ -1,5 +1,5 @@
 #### About me
-I'm a a professor at [CPS](https://www.cps.sp.gov.br/), and Ph.D. in Technologies of Intelligence and Digital Design at [PUC-SP](https://www.pucsp.br/) university, with knowledge in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Large Language Models (LLM), Cloud Computing and Software Engineering.
+I'm a professor at [CPS](https://www.cps.sp.gov.br/) and hold a Ph.D. in Technologies of Intelligence and Digital Design from [PUC-SP](https://www.pucsp.br/), with expertise in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Cloud Computing, and Software Engineering.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-madureira/)](https://www.linkedin.com/in/jose-madureira/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/josemadureira_/)](https://instagram.com/josemadureira_)
