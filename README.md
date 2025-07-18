@@ -36,12 +36,12 @@
       style="height: 23px;"
     />
   </a>
-  <a href="https://github.com/jose-madureira?tab=followers" style="text-decoration: none;">
-    <img
-      alt="Followers"
-      title="My Followers on GitHub"
-      src="https://img.shields.io/github/followers/jose-madureira?style=for-the-badge&color=3380D8&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1"
-      style="height: 23px;"
+  <a href="https://github.com/jose-madureira?tab=stars" style="text-decoration: none;">
+    <img 
+      alt="Starred Repositories" 
+      title="Repositories I've Starred" 
+      src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=634781" 
+      style="height: 23px;" 
     />
   </a>
 </p>
