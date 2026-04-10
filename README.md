@@ -1,6 +1,6 @@
 #### About me
 <p align="justify" style="font-style: italic;">
-  I'm a professor at <a href="https://www.cps.sp.gov.br/">CPS</a> and hold a Ph.D. in Technologies of Intelligence and Digital Design from <a href="https://www.pucsp.br/">PUC-SP</a>, with expertise in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Cloud Computing, and Software Engineering.
+  I'm a professor at <a href="https://www.cps.sp.gov.br/">CPS</a> and hold a Ph.D. in Technologies of Intelligence and Digital Design from <a href="https://www.pucsp.br/">PUC-SP</a>, with expertise in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), AI Agents, Cloud Computing, and Software Engineering.
 </p>
 
 <p align="center">
