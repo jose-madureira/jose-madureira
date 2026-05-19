@@ -75,12 +75,5 @@
 
 #### GitHub Stats
 <div align="center">
-  <img
-    height="140em"
-    src="https://github-readme-stats.vercel.app/api?username=jose-madureira&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&card_width=100"
-  />
-  <img
-    height="140em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-madureira&theme=tokyonight&layout=compact&card_width=100"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=jose-madureira&theme=onestar" alt="jose-madureira"/>
 </div>
