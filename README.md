@@ -71,9 +71,4 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </div>
 
----
 
-#### GitHub Stats
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jose-madureira&theme=onestar" alt="jose-madureira"/>
-</div>
